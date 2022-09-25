@@ -1,0 +1,27 @@
+.container-custom {
+    margin-top: 5%;
+}
+
+.groupAnchor {
+    text-decoration: none;
+    font-style: normal;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.groupAnchor:hover {
+    border-style: solid;
+    border-radius: 8px;
+    color: white;
+    background-color: black;
+}
+
+.groupDiv {
+    margin-bottom: 10px;
+}
+
+.messageRow {
+    margin-bottom:10px;
+}

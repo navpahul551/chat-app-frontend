@@ -1,0 +1,13 @@
+.navItem:hover{
+    border-style: solid;
+    border-radius: 4px;
+}
+
+.navItem{
+    font-weight: bolder;
+    color: black !important;
+}
+
+.hidden{
+    display: none;
+}
